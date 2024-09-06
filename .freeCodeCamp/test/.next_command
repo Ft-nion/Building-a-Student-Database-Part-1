@@ -236,3 +236,6 @@ pg_dump --help
 pg_dump --clean --create --insert --username=freecodecamp students > studenst.sql
 rm studenst.sql
 pg_dump --clean --create --inserts --username=freecodecamp students > students.sql
+git add .
+git init
+git add .
