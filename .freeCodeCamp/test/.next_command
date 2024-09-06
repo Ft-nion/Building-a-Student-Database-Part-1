@@ -248,3 +248,16 @@ git commit -m "First Part"
 git push origin main
 git pull origin main --rebase
 git add .
+git pull origin main
+git config pull.rebase false
+git pull origin main
+git pull origin main --allow-unrelated-histories
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+Resolviendo divergencias entre la rama local y la remota.git
+git status
+git add .
