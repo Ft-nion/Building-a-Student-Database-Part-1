@@ -239,3 +239,12 @@ pg_dump --clean --create --inserts --username=freecodecamp students > students.s
 git add .
 git init
 git add .
+git remote add origin https://github.com/Ft-nion/Building-a-Student-Database-Part-1.git
+__vsc_prompt_cmd_original
+git remote remove origin
+git remote add origin https://github.com/Ft-nion/Building-a-Student-Database-Part-1.git
+git branch
+git commit -m "First Part"
+git push origin main
+git pull origin main --rebase
+git add .
