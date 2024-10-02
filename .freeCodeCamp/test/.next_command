@@ -1215,3 +1215,5 @@ git --help
 branch
 git branch
 git branch
+SELECT student_info.sh students.sql FROM students RIGHT JOIN majors ON students.major_id = majors.major_id
+psql --username=freecodecamp --dbname=students
