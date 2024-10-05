@@ -1341,3 +1341,9 @@ git pull --no-rebase origin part2
 git push --set-upstream origin part2
 git status
 git add .
+git commit -m "Cambios de la segunda parte"
+git push --set-upstream origin part2
+git push --set-upstream origin part2
+git pull origin part2 --rebase
+git commit -m "Cambios de la segunda parte"
+git add .
